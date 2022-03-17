@@ -1,3 +1,15 @@
 .speakers-cards{
-    justify-content: space-around;
+    justify-content: space-between;
+} 
+
+.flowers {
+    width: 500px;
+    height: 500px;  
 }
+
+.jumbotron{
+    background-image: url(../img/orchid-2.jpg);
+    height: 500px;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
